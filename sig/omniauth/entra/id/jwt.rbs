@@ -1,0 +1,10 @@
+module OmniAuth
+  module Entra
+    module Id
+      module JWT
+        VERSION: String
+        # See the writing guide of rbs: https://github.com/ruby/rbs#guides
+      end
+    end
+  end
+end
