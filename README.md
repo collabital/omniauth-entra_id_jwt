@@ -15,12 +15,10 @@ This gem does **not** support more common OAuth2.0 authentication flows, such as
 
 ## Installation
 
-TODO: Replace `UPDATE_WITH_YOUR_GEM_NAME_IMMEDIATELY_AFTER_RELEASE_TO_RUBYGEMS_ORG` with your gem name right after releasing it to RubyGems.org. Please do not do it earlier due to security reasons. Alternatively, replace this section with instructions to install your gem from git if you don't plan to release to RubyGems.org.
-
 Add this line to your application's Gemfile:
 
 ```ruby
-gem UPDATE_WITH_YOUR_GEM_NAME_IMMEDIATELY_AFTER_RELEASE_TO_RUBYGEMS_ORG
+gem omniauth-entra_id_jwt
 ```
 
 And then execute:
@@ -32,7 +30,7 @@ bundle install
 Or install it yourself as:
 
 ```bash
-gem install UPDATE_WITH_YOUR_GEM_NAME_IMMEDIATELY_AFTER_RELEASE_TO_RUBYGEMS_ORG
+gem install omniauth-entra_id_jwt
 ```
 
 ## Usage
